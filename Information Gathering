@@ -1,6 +1,3 @@
-# DNS Speed Check Checklist
-- [ ] Flush DNS Cache `ipconfig /flushdns`
-- [ ] Test query time using CDE Resolver
-- [ ] Test query time using Cloudflares Resolver
-- [ ] Test query times with DNS cache now filled
-- [ ] Record results
+### Control DNS query times, querying google.com and youtube.com
+Flushed DNS: 
+Filled DNS: 
